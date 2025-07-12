@@ -15,6 +15,9 @@ livro3 = {"Título": "Projeto de Banco de Dados: Volume 4" ,
 
 lista_dicio = [livro1, livro2, livro3]
 
+for i in range(3):
+    print(lista_dicio[i])
+
 while True:
     remover = input("Informe o título do livro que deseja remover: ")
     if remover == livro1["Título"]:
