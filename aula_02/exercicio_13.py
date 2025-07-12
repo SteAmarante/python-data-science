@@ -1,0 +1,1 @@
+# Remova o produto 2 do dicionário e mostre o dicionário atualizado.

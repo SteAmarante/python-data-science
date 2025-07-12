@@ -1,0 +1,1 @@
+# Crie um dicionário com 3 produtos e seus preços. Mostre o preço do produto 1.
