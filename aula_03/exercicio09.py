@@ -13,7 +13,7 @@ def passeProduto(produto):
 
     try:
         print(f"Produto {produto} custa {produtos[produto]}.")
-    except:
+    except KeyError:
         print(f"Produto {produto} não encontrado.")
     finally:
         print("Pesquisa finalizada!")
