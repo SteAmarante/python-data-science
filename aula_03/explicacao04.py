@@ -15,11 +15,12 @@ def imc(peso, altura):
 
 ## Segurada parte -----------------------
 # Parte de processamento das informações
-
-peso = float(input("Digite o seu peso (em Kg): "))
-altura = float(input("Digite sua altura (em Metros com ponto): "))
-if peso != 0 and altura != 0:
-    imc_retornado_pro_peso_altura_do_usuario = imc(peso, altura)
-    print(f"Seu IMC é {imc_retornado_pro_peso_altura_do_usuario:.2f}")
-else:
-    print("Peso ou altura zerados. Informe dois valores diferentes de 0 (zero)")
+while True:
+    peso = float(input("Digite o seu peso (em Kg): "))
+    altura = float(input("Digite sua altura (em Metros com ponto): "))
+    if peso != 0 and altura != 0:
+        imc_retornado_pro_peso_altura_do_usuario = imc(peso, altura)
+        print(f"Seu IMC é {imc_retornado_pro_peso_altura_do_usuario:.2f}")
+        break
+    else:
+        print("Peso ou altura zerados. Informe dois valores diferentes de 0 (zero)")
