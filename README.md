@@ -18,3 +18,15 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Demonstrar raciocínio lógico
 - Demonstrar capacidade de organização
 - Demonstrar atenção a detalhes
+
+
+<h2>📝 Aulas </h2>
+
+- Aula 01: Introdução, Configuração, Variáveis e Tipos
+- Aula 02: Estruturas Condicionais e Loops (While e For)
+- Aula 03: Listas, Tuplas e Dicionários
+- Aula 04: Funções, Escopo e Modularização
+- Aula 05: Introdução ao NumPy Arrays e Operações Básicas
+- Aula 06: 
+- Aula 07:
+- Aula 08: 
