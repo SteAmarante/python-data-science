@@ -4,6 +4,7 @@
 O Curso de Aperfeiçoamento Profissional Programação em Python para Data Science tem por objetivo o desenvolvimento de competências relativas a programação utilizando codificações na linguagem Python, com vistas a coleta, limpeza, organização e transformação de dados e seguindo boas práticas, procedimentos e normas.
 
 Carga Horária:  60 horas
+
 Professor: Lucas Cardoso de Menezes
 
 <h2>📚  Programação  </h2>
