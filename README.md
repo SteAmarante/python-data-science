@@ -29,4 +29,6 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Aula 05: Introdução ao NumPy Arrays e Operações Básicas.
 - Aula 06: Introdução ao Pandas Séries e DataFrames.
 - Aula 07: População & Amostra · Tipos de Variáveis · Frequência · Tendência Central
-- Aula 08: 
+- Aula 08: Frequência · Tendência Central
+- Aula 09: Medidas de Dispersão e Padronização
+- Aula 10: 
