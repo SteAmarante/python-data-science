@@ -20,7 +20,7 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Demonstrar atenção a detalhes
 
 
-<h2>📝 Aulas </h2>
+<h2>📝 Aulas/Conteúdos </h2>
 
 - Aula 01: Introdução, Configuração, Variáveis e Tipos.
 - Aula 02: Estruturas Condicionais e Loops (While e For).
@@ -31,4 +31,5 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Aula 07: População & Amostra · Tipos de Variáveis · Frequência · Tendência Central
 - Aula 08: Frequência · Tendência Central
 - Aula 09: Medidas de Dispersão e Padronização
-- Aula 10: 
+- Aula 10:
+- Aula 11:
