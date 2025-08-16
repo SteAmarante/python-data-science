@@ -31,5 +31,6 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Aula 07: População & Amostra · Tipos de Variáveis · Frequência · Tendência Central
 - Aula 08: Frequência · Tendência Central
 - Aula 09: Medidas de Dispersão e Padronização
-- Aula 10:
-- Aula 11:
+- Aula 10: Visualização de Dados com Seaborn
+- Aula 11: Python para Data Science com Bancos de Dados
+- Aula 12: 
