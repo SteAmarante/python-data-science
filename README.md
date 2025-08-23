@@ -33,4 +33,4 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Aula 09: Medidas de Dispersão e Padronização
 - Aula 10: Visualização de Dados com Seaborn
 - Aula 11: Python para Data Science com Bancos de Dados
-- Aula 12: 
+- Aula 12: Introdução ao Machine Learning com Python
