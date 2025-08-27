@@ -34,3 +34,7 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 - Aula 10: Visualização de Dados com Seaborn
 - Aula 11: Python para Data Science com Bancos de Dados
 - Aula 12: Introdução ao Machine Learning com Python
+
+<h2> Informação sobre o Curso </h2>
+
+Para saber mais sobre informações de todos os cursos disponíveis no Senai, [clique aqui](https://www.sp.senai.br/cursos/cursos-livres/tecnologia-da-informacao-e-informatica?gratuito=1).
