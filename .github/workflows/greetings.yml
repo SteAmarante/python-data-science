@@ -1,0 +1,34 @@
+name: Saudações
+
+on: [pull_request_target, issues]
+
+jobs:
+  saudacao:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Olá! Obrigado por abrir sua primeira *Issue* neste repositório.  
+            🎉 Seja muito bem-vindo(a) ao projeto **Python Data Science**!  
+            
+            👉 Dicas:
+            - Explique claramente o problema ou sugestão.
+            - Se possível, adicione exemplos ou prints.
+            - Fique à vontade para interagir nas *Discussions*.
+
+            🚀 Estamos felizes em ter você aqui contribuindo!
+          pr-message: |
+            👋 Olá! Obrigado por enviar seu primeiro *Pull Request*!  
+            🎉 Seja muito bem-vindo(a) ao projeto **Python Data Science**!  
+            
+            👉 Dicas:
+            - Descreva as mudanças realizadas.
+            - Informe se há impacto em outras partes do código.
+            - Participe das *Discussions* para trocar ideias.
+
+            🚀 Sua contribuição é muito importante para o crescimento do projeto!
