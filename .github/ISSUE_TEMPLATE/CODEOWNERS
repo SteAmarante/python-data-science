@@ -1,0 +1,5 @@
+# Arquivo CODEOWNERS
+# Define quem é responsável por revisar e aprovar mudanças
+
+# Todo o repositório será revisado por você
+* @SteAmarante
