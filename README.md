@@ -38,3 +38,29 @@ O Curso de Aperfeiçoamento Profissional Programação em Python para Data Scien
 <h2> Informação sobre o Curso </h2>
 
 Para saber mais sobre informações de todos os cursos disponíveis no Senai, [clique aqui](https://www.sp.senai.br/cursos/cursos-livres/tecnologia-da-informacao-e-informatica?gratuito=1).
+
+
+---
+
+<div align="center">
+
+<img width="220" alt="Estrela" src="https://github.com/user-attachments/assets/e4b8a7e1-8fdb-42c1-be34-6524d9021a60" />
+
+## ⭐ Este repositório te ajudou? ⭐
+
+### Se os exercícios de Python ou os conteúdos de Data Science foram úteis para seus estudos na FATEC, ETEC, SENAI ou em qualquer outro lugar, considere deixar sua **estrela (Star) ⭐**!
+
+<br/>
+
+Isso mostra que o projeto está fazendo diferença e ajuda a alcançar mais pessoas que também estão aprendendo programação e ciência de dados.  
+Cada estrela é um incentivo para continuar compartilhando materiais e práticas de qualidade. 💛
+
+<br/>
+
+[![⭐ Deixe sua estrela](https://img.shields.io/badge/⭐_Deixe_sua_estrela-FFD966?style=for-the-badge&labelColor=8B5E34)](https://github.com/SteAmarante/python-data-science)
+
+<br/><br/>
+
+<sub>Feito com 💙, dedicação e foco em quem está começando na programação</sub>
+
+</div>
