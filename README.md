@@ -61,6 +61,6 @@ Cada estrela é um incentivo para continuar compartilhando materiais e práticas
 
 <br/><br/>
 
-<sub>Feito com 💙, dedicação e foco em quem está começando na programação</sub>
+<sub>Feito com 💙, dedicação e foco em quem está começando na programação e dados.</sub>
 
 </div>
